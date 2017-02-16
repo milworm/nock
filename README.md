@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/node-nock/nock/badge.svg?branch=master)](https://coveralls.io/github/node-nock/nock?branch=master)
 [![Known Vulnerabilities](https://snyk.io/test/npm/nock/badge.svg)](https://snyk.io/test/npm/nock)
 [![Chat](https://img.shields.io/badge/help-gitter-eb9348.svg?style=flat)](https://gitter.im/node-nock/nock)
+[![Support](https://supporterhq.com/api/b/399936c021d5111d90001de85283a4b5/Nock)](https://supporterhq.com/support/399936c021d5111d90001de85283a4b5/Nock)
 
 
 Nock is an HTTP mocking and expectations library for Node.js
